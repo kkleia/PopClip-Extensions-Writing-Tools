@@ -40,7 +40,9 @@
     | WritingTools.Keypoint    | Create Key Points  | Control + Option + Command + K     |
 
     Additional: If you want to change the default shortcuts, modify the fourth line from the bottom in the AppleScript within Shortcuts:
-
+    
+    **Note**: Keyboard shortcuts are set in the system settings under App Shortcuts, rather than directly in the Shortcuts editor. Setting them directly in the Shortcuts editor can cause infinite loops and system crashes.
+  
     ```applescript
     keystroke "s" using {control down, option down, command down}
     ```
@@ -49,3 +51,8 @@
 
     1. Clone this repository.
     2. Double-click the `.popclipext` plugin files.
+
+4. **Usage**
+
+    1. On first use, you need to grant clipboard permissions and Accessibility permissions for `cliclick` , `Stickies`, `Shortcuts`. Select "Always Allow" and "Allow" respectively, These permission requests will automatically pop up the request interface when the plugin is used for the first time..
+    2. You can set the font and other settings of Stickies to a comfortable format, and it will use the set format subsequently.
