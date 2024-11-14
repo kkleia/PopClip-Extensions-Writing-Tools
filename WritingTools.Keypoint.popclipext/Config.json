@@ -1,0 +1,8 @@
+{
+  "identifier": "com.kwokpia.popclip.extension.writing-tools.keypoint",
+  "name": "AI-Keypoint",
+  "icon": "symbol:square.fill.text.grid.1x2",
+  "popclipVersion": 4069,
+  "shortcut name": "Writing.Tool.Keypoint",
+  "description": "Use Keypoint in Writing Tools for non-editable content."
+}

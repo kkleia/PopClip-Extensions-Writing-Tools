@@ -1,0 +1,8 @@
+{
+  "identifier": "com.kwokpia.popclip.extension.writing-tools",
+  "name": "Writing tools",
+  "icon": "writing_tools_icon.png",
+  "popclipVersion": 4069,
+  "shortcut name": "Writing.Tool",
+  "description": "Use writing tools in non-editable content."
+}

@@ -1,0 +1,8 @@
+{
+  "identifier": "com.kwokpia.popclip.extension.writing-tools.summary",
+  "name": "AI-Summary",
+  "icon": "symbol:list.star",
+  "popclipVersion": 4069,
+  "shortcut name": "Writing.Tool.Summary",
+  "description": "Use Summary in Writing Tools for non-editable content."
+}
