@@ -42,7 +42,7 @@
     
     > **Warning**: Keyboard shortcuts are set in the system settings under App Shortcuts, rather than directly in the Shortcuts editor. If set incorrectly in the Shortcuts editor, it can cause infinite loops and system crashes.
 
-    **Additional**: If you want to change the default shortcuts, modify the fourth line from the bottom in the AppleScript within Shortcuts:
+    **Additional**: If you want to change the default keyboard shortcuts, modify the fourth line from the bottom in the AppleScript within Shortcuts:
     ```applescript
     keystroke "s" using {control down, option down, command down}
     ```
